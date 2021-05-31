@@ -13,7 +13,7 @@ namespace Niteco.EventsControl.EventsHandler
     public class CarArriveEventHandler : BaseCrossRoadHandler
     {
         /// <summary>
-        /// Execution function when a car arrive
+        /// Trigger things that happen when a car arrive
         /// </summary>
         public override void Execute()
         {

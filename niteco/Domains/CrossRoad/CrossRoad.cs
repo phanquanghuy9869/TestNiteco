@@ -10,7 +10,7 @@ namespace Niteco.Domains.CrossRoad
 {
     /// <summary>
     /// Object model of cross road
-    /// It contains 4 trafficlights, and 1 processing car
+    /// It contains 4 trafficlights (in an arrays), car (A1, A2, A3, A4), and 1 processing car
     /// For simplicity i used singleton pattern
     /// </summary>
     public class CrossRoad

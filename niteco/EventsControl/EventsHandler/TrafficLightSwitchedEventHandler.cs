@@ -8,13 +8,12 @@ using System.Threading.Tasks;
 namespace Niteco.EventsControl.EventsHandler
 {
     /// <summary>
-    /// Handler of car leave event
+    /// Handler of traffic light switch event
     /// </summary>
-    public class CarLeaveEventHandler : BaseCrossRoadHandler
+    public class TrafficLightSwitchedEventHandler : BaseCrossRoadHandler
     {
-        /// <summary>
-        /// Execution function
-        /// </summary>
+
+        /// Trigger things that happen when traffic lights change color
         public override void Execute()
         {
             throw new NotImplementedException();

@@ -5,7 +5,7 @@ using Niteco.Cores.Interfaces;
 namespace Niteco.Events
 {
     /// <summary>
-    /// Manage Event subscription
+    /// Manage event subscription (event-event handler mapping)
     /// </summary>
     public class EventsSubscriptionManager : IEventsSubscriptionManager
     {

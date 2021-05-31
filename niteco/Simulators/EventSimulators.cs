@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 namespace Niteco.Simulators
 {
     /// <summary>
-    /// Simulator the events of cars and traffic lights
+    /// Simulate the events of cars and traffic lights
     /// </summary>
     public class EventSimulators
     {
